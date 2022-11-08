@@ -1,3 +1,5 @@
+.gitignore
 .idea
 venv
-
+__pucache__/
+class work.py
